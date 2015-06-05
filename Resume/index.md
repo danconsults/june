@@ -31,7 +31,7 @@ Background includes experience with the top global communication companies, as w
 **Education:**
 
 2010-2015 
-: **Masters of science, Information & Service management**; \\
+: **Masters of science, Information & Service management**; 
 Aalto University, Helsinki.\\
   *Minor: [Information Technology Program](http://itpaalto.net/information-service-business/)*
 
