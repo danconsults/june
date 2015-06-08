@@ -1,7 +1,13 @@
 # Site navigation links
 
+- title: Home
+  url: http://localhost:4000/
+
 - title: About
   url: /about/
+
+- title: R-projects
+  url: /r-projects/
 
 - title: Articles
   url: /articles/
@@ -9,8 +15,12 @@
 - title: Blog
   url: /blog/
 
+- title: Resume
+  url: /resume/
+  
 - title: Search
   url: /search/
 
-- title: Resume
-  url: /resume/
+
+
+

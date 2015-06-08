@@ -3,7 +3,7 @@
 title:        Daniels' Blog
 locale:       en_US
 description:  Data and information management.
-logo:         site-logo.png
+logo:         #site-logo.png
 search:       true
 url:          http://localhost:4000
 
